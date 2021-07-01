@@ -55,7 +55,7 @@ The program provide a menu with the following options:
 
 * Option 7
   * The code for this option request the stock symbol from the user. If the symbol is not found, an appropriate message is displayed. A line graph should be generated using the closing price on each trading day. The y-axis should represent the closing price (rounded to the nearest dollar) and the xaxis represent each day. The stock price is rounded to the nearest dollar amount. The y-axis go from 0 to (the highest closing price of the stock + $1.00). The graph is then displayed to the user.
-  * 
+  
 ---
 
 ## Lanaguages tools and technologies
